@@ -12,9 +12,9 @@ MediCare is a compassionate React-based application designed to cater to the uni
 - [Installation](#installation)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
-- [File structure](#File-Structure)
-- [Explanation of file structure](#Explanation-of-the-file-structure)
-- [Additional feature i wanted to add](#Additional-feature-i-wanted-to-add-in-this-application)
+- [File Structure](#File-Structure)
+- [Explanation of the file structure](#Explanation-of-the-file-structure)
+- [Additional feature i wanted to add in this application](#Additional-feature-i-wanted-to-add-in-this-application)
 
 ## Features
 
