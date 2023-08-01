@@ -13,8 +13,8 @@ MediCare is a compassionate React-based application designed to cater to the uni
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
 - [File structure](#File-Structure)
-- [Explanation of file structure](#Explanation-of-the-file-structure:)
-- [Additional feature i wanted to add](#Additional-feature-i-wanted-to-add-in-this-application:)
+- [Explanation of file structure](#Explanation-of-the-file-structure)
+- [Additional feature i wanted to add](#Additional-feature-i-wanted-to-add-in-this-application)
 
 ## Features
 
@@ -72,7 +72,7 @@ The project is structured as follows:
 └── ...
 
 
-## Explanation of the file structure:
+## Explanation of the file structure
 
 public: This directory contains the public assets and the main HTML file (index.html) where the React application is mounted.
 
@@ -138,7 +138,7 @@ App.js: [Description of the main application component and its purpose]
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-## Additional feature i wanted to add in this application:
+## Additional feature i wanted to add in this application
 
 # Telemedicine Feature: Convenient Remote Doctor Consultations
 
